@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy Lucas García Niño (@lukas-eng)</h1>
-<img src="https://raw.githubusercontent.com/lukas-eng/lukas-eng/main/Banner-LukasGG.jpg" alt="Banner de Lukas G.G"/>
+<img src="https://raw.githubusercontent.com/lukas-eng/lukas-eng/main/banner.png" alt="Banner de Lukas G.G"/>
 
 <strong>
 Soy estudiante del Tecnólogo en <em>Análisis y Desarrollo de Software</em> en el SENA (Bogotá D.C.), con experiencia en desarrollo web full stack, inteligencia artificial y análisis de datos.  
